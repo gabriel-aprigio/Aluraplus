@@ -1,2 +1,2 @@
 # Aluraplus
-Projeto que aprendi no Alura utilizando apenas HTML e CSS
+Projeto que aprendi no Alura, mostrando seus planos e benefício.
